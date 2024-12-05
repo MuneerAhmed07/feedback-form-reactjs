@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/feedback-form-reactjs/static/css/main.19e7816f.css",
+    "main.js": "/feedback-form-reactjs/static/js/main.3d5cafb0.js",
+    "static/js/453.768bf691.chunk.js": "/feedback-form-reactjs/static/js/453.768bf691.chunk.js",
+    "index.html": "/feedback-form-reactjs/index.html",
+    "main.19e7816f.css.map": "/feedback-form-reactjs/static/css/main.19e7816f.css.map",
+    "main.3d5cafb0.js.map": "/feedback-form-reactjs/static/js/main.3d5cafb0.js.map",
+    "453.768bf691.chunk.js.map": "/feedback-form-reactjs/static/js/453.768bf691.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19e7816f.css",
+    "static/js/main.3d5cafb0.js"
+  ]
+}
